@@ -60,14 +60,6 @@ A machine-learning model that classifies emails as spam or ham, with attention t
 
 > Explore my repositories for project details, implementation, and ongoing improvements.
 
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tolawak6&show_icons=true&hide_border=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tolawak6&layout=compact&hide_border=true&theme=transparent)
-
-</div>
 
 ## 🤝 Let's Connect
 
