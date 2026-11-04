@@ -2,89 +2,71 @@
 
 # Hi, I'm Tolawak Merga 👋
 
-### Full-Stack Developer | Machine Learning Enthusiast
+### Full-Stack Developer · Building useful web applications and APIs
 
-I build web applications and explore machine learning to turn ideas and real-world problems into practical solutions.
+I enjoy taking practical ideas from interface to backend—from a bus lost-and-found register to a data-driven portfolio and an API for Amharic readers.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-tolawak.vercel.app-0A66C2?style=flat&logo=vercel&logoColor=white)](https://tolawak.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Tolawak6-181717?style=flat&logo=github)](https://github.com/Tolawak6)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat&logo=vercel&logoColor=white)](https://tolawak.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tolawak_Merga-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolawak-merga)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨🏽‍💻 About Me
 
-- 💻 Focused on full-stack development with **Next.js, React, Node.js, Express.js, and PHP**
-- 🗄️ Databases: **PostgreSQL and MongoDB**
-- 🤖 Exploring machine learning with **Python, Scikit-learn, and PyTorch**
-- 🌱 Currently strengthening my Next.js skills and exploring AI integration in web applications
 - 🎓 Computer Science graduate from **Haramaya University**
+- 🧩 I build full-stack products with **React, TypeScript, Node.js, and Express**
+- 🗃️ I work with relational and document databases, including **PostgreSQL and MongoDB**
+- 🤖 I explore applied machine learning, especially text classification with **Python and scikit-learn**
+- 🌍 Interested in technology that serves local communities and makes information easier to access
 
-## 🛠️ Tech Stack
+## ⭐ Featured Projects
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+### [Ethio Lost & Found](https://github.com/Tolawak6/ethio-lost-and-found)
+A lost-property register for Addis Ababa bus passengers. Passengers can search for items and file claims; department staff can manage items, review claims, and keep an audit trail. Built with **React, Express, and MongoDB**, with a local in-memory option for development.
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+### [Tolawak's Portfolio](https://github.com/Tolawak6/Tolawaks-portfolio)
+A full-stack portfolio with a React and Vite frontend, Express API, and PostgreSQL-backed project content. Includes an admin dashboard for managing projects and contact submissions.
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### [Open Amharic Bible API](https://github.com/Tolawak6/amharic-bible-api) · [Live API](https://openamharicbible.vercel.app)
+A REST API for browsing and searching Amharic Bible books, chapters, and verses, with support for book abbreviations and testament filtering.
 
-### Machine Learning & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+### [Next.js Auth App](https://github.com/Tolawak6/My-Next.js-Auth_App)
+A learning project demonstrating registration, login, protected pages, and logout using Next.js, TypeScript, Prisma, SQLite, and signed session cookies.
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### [Fake News Detection App](https://github.com/Tolawak6/fake-news-detector)
+A Flask web app that classifies news text using a **TF-IDF + Logistic Regression** model and returns a prediction with a confidence score.
 
-## 📂 Projects & Repositories
+### [Digital Menu](https://github.com/Tolawak6/Digital-Menu)
+A responsive café menu built with React, TypeScript, Vite, and Tailwind CSS, featuring menu categories, search, and mobile-first browsing.
 
-These are the projects I could verify from the public repositories currently visible on my GitHub profile. Visit my [repositories page](https://github.com/Tolawak6?tab=repositories) to browse the full collection.
+## 🧰 Technologies
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Tolawaks-portfolio](https://github.com/Tolawak6/Tolawaks-portfolio) | Personal developer portfolio showcasing my work and skills. | React, JavaScript, Vite |
-| [attendance-app](https://github.com/Tolawak6/attendance-app) | Attendance management application. | TypeScript |
-| [Spam-Email-Detection-Model](https://github.com/Tolawak6/Spam-Email-Detection-Model) | Machine-learning model for classifying emails as spam or legitimate. | Python, Jupyter Notebook |
-| [HRMS](https://github.com/Tolawak6/HRMS) | Human Resource Management System for managing HR information and workflows. | PHP, HTML, CSS, JavaScript |
-| [fake-news-detector](https://github.com/Tolawak6/fake-news-detector) | Machine-learning project for identifying potentially fake news. | Python |
-| [My-Portfolio](https://github.com/Tolawak6/My-Portfolio) | An earlier personal portfolio website. | CSS |
+**Frontend:** React, Next.js, TypeScript, JavaScript, Vite, Tailwind CSS, HTML, CSS  
+**Backend:** Node.js, Express, PHP, Flask, REST APIs  
+**Databases:** PostgreSQL, MongoDB, SQLite, Prisma  
+**Machine learning:** Python, scikit-learn, TF-IDF, Logistic Regression  
+**Also exploring:** Flutter and Dart  
+**Tools:** Git, GitHub
 
-### Other Work
+## 📚 More Projects
 
-- **EthiLearn / Fidel Tutors:** Tutoring platform project focused on connecting learners with educational support.
-- **Naveed Nouman Coffee:** Digital menu and service website project for a café.
-- **Facial Emotion Recognition:** Learning-focused deep-learning project using CNNs and FER2013, progressing from image classification toward real-time webcam recognition.
+- [Spam Email Detection Model](https://github.com/Tolawak6/Spam-Email-Detection-Model) — email spam classification with TF-IDF and Logistic Regression.
+- [HRMS](https://github.com/Tolawak6/HRMS) — a Human Resource Management System built with PHP, HTML, CSS, and JavaScript.
+- [Attendance App](https://github.com/Tolawak6/attendance-app) — an attendance-management project.
+- [Facial Emotion Recognition and Detection](https://github.com/Tolawak6/Facial-Emotion-Recognition-and-Detection-model) — a computer-vision learning project.
+- [Furniture Shop](https://github.com/Tolawak6/Furniture-Shop) — a Flutter furniture-shopping app with a local-data demo catalog, favorites, and cart.
+- [My Portfolio](https://github.com/Tolawak6/My-Portfolio) — an earlier portfolio website.
 
-## 📊 GitHub Overview
+[Browse all my repositories →](https://github.com/Tolawak6?tab=repositories)
 
-<div align="center">
+## 🤝 Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tolawak6&show_icons=true&hide_border=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tolawak6&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
-## 🤝 Let's Connect
-
-- 🌐 **Portfolio:** [tolawak.vercel.app](https://tolawak.vercel.app)
-- 💼 **LinkedIn:** [Tolawak Merga](https://www.linkedin.com/in/tolawak-merga)
-- 💻 **GitHub:** [@Tolawak6](https://github.com/Tolawak6)
+- 🌐 [Portfolio](https://tolawak.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tolawak-merga)
+- 💻 [GitHub](https://github.com/Tolawak6)
 
 ---
 
