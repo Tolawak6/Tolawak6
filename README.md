@@ -90,7 +90,6 @@ A responsive café digital menu built with **React, TypeScript, Vite, and Tailwi
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/Tolawak6?style=for-the-badge&logo=github&label=Followers)](https://github.com/Tolawak6?tab=followers)
 [![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTolawak6&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github)](https://github.com/Tolawak6?tab=repositories)
 
 [![Most Used Language](https://img.shields.io/github/languages/top/Tolawak6/ethio-lost-and-found?style=for-the-badge&label=Featured%20Project%20Language)](https://github.com/Tolawak6/ethio-lost-and-found)
