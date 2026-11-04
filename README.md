@@ -96,7 +96,6 @@ A responsive café digital menu built with **React, TypeScript, Vite, and Tailwi
 
 </div>
 
-*The previous stats cards relied on a third-party stats service, which may be unavailable or rate-limited. These badges use Shields.io and GitHub's public profile data instead.*
 
 ## 🤝 Let's Connect
 
